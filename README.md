@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats-ruby-nine-44.vercel.app/api/top-langs/?username=largomath2010\&layout=donut-vertical)]
+[![Top Langs](https://github-readme-stats-ruby-nine-44.vercel.app/api/top-langs/?username=largomath2010\&layout=donut-vertical)](https://github.com/largomath2010/github-readme-stats)
