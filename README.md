@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **largomath2010/largomath2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true" />
+</picture>
