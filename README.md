@@ -34,25 +34,22 @@
 <br>
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <br>
-  <picture>
-    <source
-      srcset="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true" />
-  </picture>
-  <br>
+⚡ Github Stats
+<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true" />
+</picture>
+<br>
 
-  [![Top Langs](https://github-readme-stats-ruby-nine-44.vercel.app/api/top-langs/?username=largomath2010&layout=pie)](https://github.com/largomath2010/github-readme-stats)
-
-</details>
+[![Top Langs](https://github-readme-stats-ruby-nine-44.vercel.app/api/top-langs/?username=largomath2010&layout=pie)](https://github.com/largomath2010/github-readme-stats)
 
 
 [upwork]: https://www.upwork.com/freelancers/~01615bb0e7b23a47af
