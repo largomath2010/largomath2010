@@ -2,12 +2,11 @@
 
 ## I'm a Husband, Father, Developer, and Gamer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Learn more about langchain and generative AI
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- ⚡ Fun fact: I love to nerf blaster modding and play guitar.
+- ⚡ Another Fun fact: I also love mount and blade: bannerlord and modding.
 
 ### Languages and Tools:
 
@@ -27,7 +26,7 @@
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <br>
   <picture>
     <source
       srcset="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true&theme=dark"
@@ -39,7 +38,7 @@
     />
     <img src="https://github-readme-stats-ruby-nine-44.vercel.app/api?username=largomath2010&show_icons=true" />
   </picture>
-
+  <br>
   [![Top Langs](https://github-readme-stats-ruby-nine-44.vercel.app/api/top-langs/?username=largomath2010&layout=pie)](https://github.com/largomath2010/github-readme-stats)
 
 </details>
