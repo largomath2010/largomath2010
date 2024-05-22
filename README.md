@@ -34,7 +34,8 @@
 <br>
 
 ---
-⚡ Github Stats
+
+### ⚡ Github Stats
 <br>
 <picture>
   <source
